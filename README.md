@@ -1,7 +1,7 @@
 # Yii2 and Gulp
 Simple app with working Yii2 asset command and Gulp.
 
-This is configured [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-basic) which works with Gulp. 
+This is configured [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-basic) which uses Gulp. 
 
 ## App installation
 
