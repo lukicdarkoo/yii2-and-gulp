@@ -1,0 +1,22 @@
+{
+  "name": "spesdriver-tools",
+  "version": "1.0.0",
+  "description": "SpesDriver tools",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "Darko Lukic",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "*",
+	"gulp-uglify": "*",
+	"minimist": "*",
+	"gulp-rename": "*",
+	"gulp-css": "*"
+  }
+}
