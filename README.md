@@ -3,7 +3,7 @@ Simple app with working Yii2 asset command and Gulp.
 
 ## App installation
 
-* Install NodeJS from [!here](http://nodejs.org/)
+* Install NodeJS from [here](http://nodejs.org/)
 * Install Gulp globaly ``npm install -g gulp``. 
   * IMPORTANT: Make sure does Gulp work fine. Check it with ``gulp --version``, if it works you should see something like ``CLI version 3.8.11``
 * Clone this repository
