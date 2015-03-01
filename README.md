@@ -7,7 +7,7 @@ This is configured [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-
 
 * Install NodeJS from [here](http://nodejs.org/)
 * Install Gulp globaly ``npm install -g gulp``. 
-  * IMPORTANT: Make sure does Gulp work fine. Check it with ``gulp --version``, if it works you should see something like ``CLI version 3.8.11``
+  * IMPORTANT: Make sure that Gulp works fine. Check it with ``gulp --version``, if it works you should see something like ``CLI version 3.8.11``
 * Clone this repository
   ``git clone https://github.com/lukicdarkoo/yii2-and-gulp.git``
   * Navigate to ``/yii2-and-gulp`` and run ``composer update --prefer-dist``
